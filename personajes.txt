@@ -1,0 +1,6 @@
+Caracteristicas: 
+    Tamaño,
+    Fuerza,
+    Edad,
+    Color,
+    Ki
